@@ -1,2 +1,2 @@
-# aeds-1
-exercícios de algoritmos e estruturas de dados 1
+# 🐝 aeds-1
+Repositório criado para armazenar os exercícios realizados para a matéria "Algoritmos e Estruturas de Dados I" no CEFET-MG
